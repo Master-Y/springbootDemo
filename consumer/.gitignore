@@ -85,6 +85,7 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
+.mvn/wrapper
 mvnw
 mvnw.cmd
 # ignore eclipse files
